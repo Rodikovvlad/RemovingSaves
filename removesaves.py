@@ -1,6 +1,6 @@
 import os
 
-path = "C:/Users/Влад\Documents/The Witcher/saves"
+path = "C:/Users/Влад/Documents/The Witcher/saves"
 saves = os.listdir(path)
 
 checks = []
